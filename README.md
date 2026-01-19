@@ -8,8 +8,6 @@ when the screen turns on.
 - Select image folder
 - Simple and clean UI
 
-## Screenshots
-
 ## Support Development
 If you like this app, you can support development here:
 https://paypal.me/xxxx
