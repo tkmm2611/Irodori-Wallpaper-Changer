@@ -1,7 +1,7 @@
 # 彩 - Wallpaper Changer
 
 An Android app that changes wallpapers automatically
-when the screen turns on.
+when the screen turns on.  
 画面がオンになると自動的に壁紙を変更するAndroidアプリ。
 
 ## Features
@@ -13,7 +13,7 @@ when the screen turns on.
 - シンプルでクリーンなUI
 
 ## Support Development
-If you like this app, you can support development here:
+If you like this app, you can support development here:  
 このアプリが気に入ったら、開発を支援してください：
 
 ### JPY
