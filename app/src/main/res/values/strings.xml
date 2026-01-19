@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Irodori - Wallpaper Changer</string>
+
+    <string name="title_app">Irodori - Wallpaper Changer</string>
+
+    <string name="status_stopped">Stopped</string>
+    <string name="status_running">Running</string>
+
+    <string name="first_launch_hint">
+    Turn the switch ON to change the wallpaper\nwhen the screen turns on.\nFirst, select a folder.
+    </string>
+
+    <string name="image_count_initial">No folder selected</string>
+    <string name="image_count">%1$d images</string>
+
+    <string name="select_folder">Select Folder</string>
+
+    <string name="stop_image_label">Image at stop</string>
+
+    <string name="fit_landscape_switch">Fit landscape to screen</string>
+
+    <string name="switch_on">ON</string>
+    <string name="switch_off">OFF</string>
+
+    <string name="notification_title">Irodori Wallpaper Active</string>
+    <string name="notification_text">Wallpaper changes when screen turns on</string>
+    <string name="notification_running">Wallpaper changer is running</string>
+    <string name="notification_channel_name">Wallpaper Service</string>
+
+    <string name="content_desc_switch">Wallpaper toggle</string>
+    <string name="content_desc_folder">Select image folder</string>
+
+    <string name="about">About</string>
+    <string name="rate_app">⭐ Rate this app</string>
+    <string name="support_dev">❤️ Support development</string>
+
+</resources>

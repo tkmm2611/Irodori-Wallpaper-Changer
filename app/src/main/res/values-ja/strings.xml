@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App -->
+    <string name="app_name">彩 - Wallpaper Changer</string>
+
+    <!-- Main UI -->
+    <string name="title_app">彩 - Wallpaper Changer</string>
+
+    <string name="status_stopped">停止中</string>
+    <string name="status_running">作動中</string>
+
+    <!-- First launch hint -->
+    <string name="first_launch_hint">
+    スイッチをONにすると、\n画面点灯時に壁紙が切り替わります。\nまずはフォルダを選択してください。
+    </string>
+
+    <!-- Select image -->
+    <string name="image_count_initial">画像フォルダ未選択</string>
+    <string name="image_count">%1$d 枚の画像</string>
+
+    <string name="select_folder">フォルダを選択</string>
+
+    <string name="stop_image_label">停止時にセットする画像</string>
+
+    <!-- Fit landscape switch -->
+    <string name="fit_landscape_switch">横長画像を画面に収める</string>
+
+    <!-- Switch -->
+    <string name="switch_on">ON</string>
+    <string name="switch_off">OFF</string>
+
+    <!-- Notification (Foreground Service) -->
+    <string name="notification_title">彩 壁紙変更中</string>
+    <string name="notification_text">画面ON時に壁紙を自動変更します</string>
+    <string name="notification_running">壁紙変更が有効です</string>
+    <string name="notification_channel_name">Wallpaper Service</string>
+
+    <!-- Accessibility -->
+    <string name="content_desc_switch">壁紙変更スイッチ</string>
+    <string name="content_desc_folder">画像フォルダ選択</string>
+
+    <!-- About -->
+    <string name="about">About</string>
+    <string name="rate_app">⭐ アプリを評価する</string>
+    <string name="support_dev">❤️ 開発を支援する</string>
+
+</resources>
